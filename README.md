@@ -1,2 +1,2 @@
 ## House prices prediction with Machine Learning in Python
-This is an ongoing project meant to learn machine learning algorithms in Python. It is an ongoing version meant for boost my python skills. You can find a version on Kaggle. 
+In this project I tackled a Kaggle dataset. The aim is to predict Melbourne house prices. After a robust exploratory data analysis and feature engineering effort, I compared three models in terms of RMSE and MAPE: logistic regression, decision trees and Random forest. Then I fine-tuned the hyperparameters of the best models, which was random forest, using both a grid search and a randomized search.
